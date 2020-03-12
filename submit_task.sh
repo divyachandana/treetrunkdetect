@@ -27,5 +27,5 @@ module load cuda
 module load singularity
 
 #singularity exec --nv docker://divyachandana/working:success python Drbox.py --train
-singularity exec --nv docker://biggreenapple/drbox-v2:gpu python Drbox.py --train
+singularity exec --nv docker://biggreenapple/drbox-v2:latest python Drbox.py --train
 
