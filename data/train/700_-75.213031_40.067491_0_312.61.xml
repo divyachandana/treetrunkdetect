@@ -1,0 +1,56 @@
+<annotation verified="yes">
+  <folder>street-images</folder>
+  <filename>700_-75.213031_40.067491_0_312.61</filename>
+  <path>/Users/divyachandana/Documents/NJIT/work/StreetView/street-images/700_-75.213031_40.067491_0_312.61.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>trunk </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>735.5575</cx>
+      <cy>569.2529</cy>
+      <w>15.0</w>
+      <h>92.0</h>
+      <angle>0.0</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>trunk </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>879.5575</cx>
+      <cy>500.2529</cy>
+      <w>23.0</w>
+      <h>74.0</h>
+      <angle>0.0</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>trunk </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>965.5575</cx>
+      <cy>527.2529</cy>
+      <w>23.0</w>
+      <h>34.0</h>
+      <angle>0.0</angle>
+    </robndbox>
+  </object>
+</annotation>
