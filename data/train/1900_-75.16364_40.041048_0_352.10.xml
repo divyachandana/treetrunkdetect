@@ -1,0 +1,42 @@
+<annotation verified="yes">
+  <folder>street-images</folder>
+  <filename>1900_-75.16364_40.041048_0_352.10</filename>
+  <path>/Users/divyachandana/Documents/NJIT/work/StreetView/street-images/1900_-75.16364_40.041048_0_352.10.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>768</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>trunk </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>744.3006</cx>
+      <cy>351.3855</cy>
+      <w>23.3614</w>
+      <h>180.6591</h>
+      <angle>3.081593</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>trunk </name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>807.5575</cx>
+      <cy>348.7529</cy>
+      <w>25.0</w>
+      <h>197.0</h>
+      <angle>0.0</angle>
+    </robndbox>
+  </object>
+</annotation>
